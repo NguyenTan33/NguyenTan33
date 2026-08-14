@@ -1,25 +1,29 @@
-<div align="center">
-
-  <!-- Typing SVG Banner -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=184C78&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Nguyen+Minh+Tan+👋;.NET+Backend+Developer+🚀;Software+Engineering+Student+at+HUFLIT+🎓;Passionate+about+Clean+Architecture+%26+High-Perf+Systems+⚡" alt="Typing SVG" />
+<h1 align="center">
+  <a href="https://nguyentan33.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&height=50&lines=NGUY%E1%BB%84N+MINH+T%C3%82N;%2ENET+Backend+Developer;Clean+Architecture+%26+Webhooks" alt="Nguyễn Minh Tân" />
   </a>
+</h1>
 
-  <p align="center">
-    <b>Backend Developer</b> specialized in <b>.NET (C#)</b>, <b>ASP.NET MVC</b>, <b>Clean Architecture</b>, and <b>Automated Payment Integrations</b>.
-  </p>
+<p align="center">
+  <a href="https://nguyentan33.github.io">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-nguyentan33.github.io-0284c7?style=for-the-badge&logoColor=white" alt="Portfolio Website" />
+  </a>
+  <a href="https://webcuatan.click">
+    <img src="https://img.shields.io/badge/🛒_Live_Demo-webcuatan.click-7c3aed?style=for-the-badge&logoColor=white" alt="Live Demo Website" />
+  </a>
+  <a href="mailto:nguyenminhtan301205@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email_Me-nguyenminhtan301205%40gmail.com-10b981?style=for-the-badge&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-  <p align="center">
-    📍 <b>Ho Chi Minh City, Vietnam</b> &nbsp;|&nbsp; 
-    🌐 <b><a href="https://webcuatan.click">Live Demo Website</a></b> &nbsp;|&nbsp; 
-    ✉️ <b><a href="mailto:nguyenminhtan301205@gmail.com">Contact Me</a></b>
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Ho_Chi_Minh_City%2C_Vietnam-1e293b?style=flat-square" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=NguyenTan33&style=flat-square&color=0284c7" alt="Profile Views" />
+</p>
 
-  <!-- Visitor Counter -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=NguyenTan33&style=flat-square&color=184c78" alt="Profile Views" />
-  </p>
-</div>
+<p align="center">
+  <b>🎓 Senior Software Engineering Student at HUFLIT &nbsp;|&nbsp; ⚡ Specialized in C#, ASP.NET MVC 5, EF6 & VietQR Webhooks</b>
+</p>
 
 ---
 
@@ -58,7 +62,8 @@
 #### 🛒 [Bách Hóa Xanh E-Commerce Platform](https://github.com/NguyenTan33/Do_An_E_Commerce_BHX_Web)
 *A full-fledged Online Grocery Supermarket Platform built with C#, ASP.NET MVC 5, Entity Framework 6, and SQL Server.*
 
-[![Live Demo Website](https://img.shields.io/badge/🌐_Live_Demo-webcuatan.click-184C78?style=for-the-badge)](https://webcuatan.click)
+[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-nguyentan33.github.io-0284c7?style=for-the-badge)](https://nguyentan33.github.io)
+[![Live Demo Website](https://img.shields.io/badge/🛒_Live_Demo-webcuatan.click-7c3aed?style=for-the-badge)](https://webcuatan.click)
 [![Source Code](https://img.shields.io/badge/🐙_Source_Code-GitHub_Repository-24292e?style=for-the-badge)](https://github.com/NguyenTan33/Do_An_E_Commerce_BHX_Web)
 
 </div>
@@ -91,8 +96,8 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Website-nguyentan33.github.io-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nguyentan33.github.io)
 [![Email](https://img.shields.io/badge/Email-nguyenminhtan301205%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenminhtan301205@gmail.com)
-[![Live Website](https://img.shields.io/badge/Website-webcuatan.click-184C78?style=for-the-badge&logo=google-chrome&logoColor=white)](https://webcuatan.click)
 [![GitHub](https://img.shields.io/badge/GitHub-NguyenTan33-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenTan33)
 
 </div>
@@ -100,5 +105,5 @@
 <br />
 
 <p align="center">
-  <i>"Clean code always looks like it was written by someone typical of who cares." — Robert C. Martin</i>
+  <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
 </p>

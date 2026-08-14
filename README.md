@@ -22,14 +22,14 @@
 </p>
 
 <p align="center">
-  <b>🎓 Senior Software Engineering Student at HUFLIT &nbsp;|&nbsp; ⚡ Specialized in C#, ASP.NET MVC 5, EF6 & VietQR Webhooks</b>
+  <b>🎓 Final-year Software Engineering Student at HUFLIT &nbsp;|&nbsp; ⚡ Specialized in C#, ASP.NET MVC 5, EF6 & VietQR Webhooks</b>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education**: Senior Software Engineering Student at **HUFLIT** (Graduation 2027)
+- 🎓 **Education**: Final-year Software Engineering Student at **HUFLIT** (Graduation 2027)
 - 🔭 **Current Focus**: Building high-performance Backend APIs, Microservices, and E-Commerce Architecture using **.NET Core & C#**
 - ⚡ **Technical Strengths**: 
   - **Clean Architecture & OOP**: Service Layer, Thin Controller, Dependency Injection, SoC

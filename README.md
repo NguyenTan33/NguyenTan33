@@ -80,14 +80,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NguyenTan33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="NguyenTan33's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTan33&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenTan33&theme=tokyonight" alt="NguyenTan33's GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NguyenTan33&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenTan33&theme=tokyonight" alt="NguyenTan33's Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenTan33&theme=tokyonight&hide_border=true" alt="NguyenTan33's Activity Graph" />
 </div>
 
 ---
